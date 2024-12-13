@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakshitjain0008
 - 🌱 I’m currently learning python , networking , machine learning , cybersecurity
 - 💞️ I’m looking to collaborate with people of my field.
-- 📫 Reach me on linkedin 
+- 📫 Reach me on linkedin www.linkedin.com/in/rakshitjainrj
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
